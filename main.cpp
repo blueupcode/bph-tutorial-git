@@ -2,10 +2,7 @@
 
 using namespace std;
 
+// asdasdjk
 int main() {
   cout << "Hallo BPH" << endl;
-}
-
-int fungsi() {
-  return 1 + 2;
 }
